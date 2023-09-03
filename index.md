@@ -20,3 +20,8 @@ var myVar = "Hello, world!";
 ``` Python
 a = np.ones(s)
 ```
+
+# Add a task list
+- [ ] Finish this GitHub tutorial
+- [ ] Finish Homework1
+- [X] Sleep
